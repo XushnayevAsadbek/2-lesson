@@ -1,0 +1,25 @@
+.todoApp{
+    width: 300px;
+    margin: 0 auto;
+}
+/* .todoApp-card{
+    display: flex;
+    justify-content: center;
+} */
+.text1{
+    width: 200px;
+    padding: 10px 15px;
+    color: blue;
+    outline: none;
+    background-color: #f5f5f5;
+    border:  1px solid #fff;
+}
+
+ul{
+    list-style: none;
+}
+li{
+    padding: 5px;
+    color: cornflowerblue;
+    font-size: 20px;
+}
